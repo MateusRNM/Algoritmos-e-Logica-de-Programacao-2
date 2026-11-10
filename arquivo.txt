@@ -1,1 +1,1 @@
-Arquivo criado pelo script Python!
+{"nome": "Mateus", "idade": 19}
