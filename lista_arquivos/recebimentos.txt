@@ -1,0 +1,1 @@
+[{"Num_doc": 0, "Valor_doc": 120.0, "Data_Emissao": "21/11/2026", "Data_Vencimento": "05/01/2027", "Cod_Cli": 0}, {"Num_doc": 1, "Valor_doc": 564.0, "Data_Emissao": "19/11/2026", "Data_Vencimento": "05/04/2027", "Cod_Cli": 1}]

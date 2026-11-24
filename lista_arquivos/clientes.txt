@@ -1,1 +1,1 @@
-[{"Cod_Cli": 0, "Nome": "Mateus", "Endereco": "rua x, 43535", "Fone": "45436564765"}]
+[{"Cod_Cli": 0, "Nome": "Mateus", "Endereco": "345345", "Fone": "43534"}, {"Cod_Cli": 1, "Nome": "Pedro", "Endereco": "rua y 6563", "Fone": "563"}]
